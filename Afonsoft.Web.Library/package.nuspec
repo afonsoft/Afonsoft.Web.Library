@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Afonsoft.Web.Libary</id>
+    <version>2019.4.29</version>
+    <title>Afonsoft.Web.Libary</title>
+    <authors>Afonso Dutra Nogueira Filho</authors>
+    <owners>Afonsoft</owners>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Biblioteca para aplicações Web Forms</description>
+    <releaseNotes>Biblioteca para aplicações Web Forms</releaseNotes>
+    <copyright>Afonsoft</copyright>
+    <tags>Biblioteca para aplicação WEB</tags>
+    <language>pt-BR</language>
+    <projectUrl>https://github.com/afonsoft/Afonsoft.Web.Library</projectUrl>
+  </metadata>
+</package>
