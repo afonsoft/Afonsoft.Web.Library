@@ -11,8 +11,8 @@ env:
 os:
   - linux
   - osx
-solution: Afonsoft.EFCore.sln
+solution: Afonsoft.Web.Library.sln
 install:
-  - nuget restore Afonsoft.EFCore.sln
+  - nuget restore Afonsoft.Web.Library.sln
 script:
-  - xbuild /p:Configuration=Release Afonsoft.EFCore.sln
+  - xbuild /p:Configuration=Release Afonsoft.Web.Library.sln
