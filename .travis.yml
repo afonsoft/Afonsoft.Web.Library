@@ -15,4 +15,4 @@ solution: Afonsoft.Web.Library.sln
 install:
   - nuget restore Afonsoft.Web.Library.sln
 script:
-  - xbuild /p:Configuration=Release Afonsoft.Web.Library.sln
+  - msbuild /p:Configuration=Release Afonsoft.Web.Library.sln
